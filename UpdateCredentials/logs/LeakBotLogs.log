@@ -1,0 +1,4 @@
+23:06:20.397 [main] INFO  LeakBot.UpdateCredentials.LeakBotUpdateCredentials - Host Information : https://dashboard.uat-leakbot.net
+23:06:26.864 [main] INFO  LeakBot.UpdateCredentials.LeakBotUpdateCredentials - JSON Response :{"error":52,"description":"TOKEN is not valid","ts":1548025546425,"ms":123}
+23:06:27.501 [main] INFO  LeakBot.UpdateCredentials.LeakBotUpdateCredentials - Token for which User details are updated :null
+23:06:27.501 [main] INFO  LeakBot.UpdateCredentials.LeakBotUpdateCredentials - Account for which User details are updated :null

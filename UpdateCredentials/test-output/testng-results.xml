@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6450" started-at="2019-01-20T18:04:55Z" finished-at="2019-01-20T18:05:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6450" started-at="2019-01-20T18:04:55Z" finished-at="2019-01-20T18:05:02Z">
+      <class name="LeakBot.UpdateCredentials.LeakBotUpdateCredentials">
+        <test-method status="PASS" signature="getdata()[pri:0, instance:LeakBot.UpdateCredentials.LeakBotUpdateCredentials@ef9176]" name="getdata" is-config="true" duration-ms="17" started-at="2019-01-20T18:04:55Z" finished-at="2019-01-20T18:04:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata -->
+        <test-method status="PASS" signature="testmethod(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LeakBot.UpdateCredentials.LeakBotUpdateCredentials@ef9176]" name="testmethod" duration-ms="5883" started-at="2019-01-20T18:04:55Z" data-provider="User_Details" finished-at="2019-01-20T18:05:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[b4444924ec456699e23024f2881282dd72419d30]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2032]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[004455555777]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[004455555777]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Jones]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[one.two@homeserve.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Anne]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod -->
+        <test-method status="PASS" signature="testmethod(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LeakBot.UpdateCredentials.LeakBotUpdateCredentials@ef9176]" name="testmethod" duration-ms="516" started-at="2019-01-20T18:05:01Z" data-provider="User_Details" finished-at="2019-01-20T18:05:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[b4444924ec456699e2302dbhf81282dd72419d30]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2732]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[004005555777]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[004675555777]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Leela]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[leelavathi06@gmail.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Leela]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod -->
+      </class> <!-- LeakBot.UpdateCredentials.LeakBotUpdateCredentials -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
